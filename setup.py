@@ -27,7 +27,7 @@ setup(name='python-autocite',
     install_requires=install_requires,
     tests_require=test_requires,
     test_suite='nose.collector',
-    package_dir={'':'src'},
+    # package_dir={'':'src'},
     package_data={
     },
     entry_points={
